@@ -1,10 +1,3 @@
----
-title: 开始
-nav_order: 3
-layout: default
-description: 'Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages.'
----
-
 # YApi
 
 在开始使用 YApi 之前，我们先来熟悉一下 YApi 的网站结构，这将让你快速了解 YApi。
