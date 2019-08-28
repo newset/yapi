@@ -1,0 +1,4 @@
+gem "just-the-docs"
+gem "jekyll"
+gem "jekyll-optional-front-matter"
+gem 'jekyll-titles-from-headings'

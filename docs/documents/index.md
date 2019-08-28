@@ -1,7 +1,16 @@
+---
+title: 开始
+nav_order: 3
+layout: default
+description: 'Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages.'
+---
+
 # YApi
-在开始使用 YApi 之前，我们先来熟悉一下 YApi 的网站结构，这将让你快速了解YApi。
+
+在开始使用 YApi 之前，我们先来熟悉一下 YApi 的网站结构，这将让你快速了解 YApi。
 
 ## 登录与注册
+
 想要使用 YApi ，首先要注册账号。
 
 <img src="./images/usage/login.png" />
@@ -41,6 +50,7 @@
 <img src="./images/usage/project.png" />
 
 ## 个人中心
+
 鼠标移动到右上角的用户头像或用户名上，即可点击“个人中心”查看个人信息。
 
 <img src="./images/usage/hover.png" />

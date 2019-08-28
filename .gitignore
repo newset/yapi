@@ -46,3 +46,9 @@ client/plugin-module.js
 /iconfont
 
 _site
+*.gem
+.bundle
+.sass-cache
+Gemfile.lock
+node_modules
+.jekyll-cache
